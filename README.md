@@ -1,0 +1,2 @@
+# AssemblyDefinitionViewer
+AssemblyDefinitionさんがどうつながっているか可視化するツール
